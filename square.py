@@ -78,10 +78,6 @@ for infile in glob.glob("*.jpg"):
 # TODO: create Github issues
     # TODO: create github issues based on these TODOs
     # TODO: come up with more ideas for improvement of project or other nice ideas and issues
-# TODO: clean up code
-    # TODO: sort imports alphabetically
-    # TODO: add comments to describe functionality
-    # TODO: remove unnecessary code (outcommented parts)
 # TODO: test if tool works for linux and MacOS
 # TODO: improve github project
     # TODO: improve readme (description, etc.)
